@@ -1,6 +1,6 @@
-name: Tech Portal Indonesia
-title: Tech Portal Indonesia
-description: Latest tech issues and tutorials
+name: Cekips International
+title: Cekips International
+description: Online Business Directory
 logo: assets/images/idnlogos.png
 favicon: assets/images/techico.png
 baseurl: ''
@@ -10,11 +10,11 @@ include:
 permalink: '/:title/'
 authors:
   techidn:
-    name: Techidn
-    display_name: Techidn
+    name: Cekips
+    display_name: Cekips
     email: krvsuite@gmail.com
     twitter: ''
-    description: "Ikuti kami untuk mendapatkan info terbaru seputar aplikasi dan teknologi berbasis kecerdasan buatan di era industri digital."
+    description: "Keep up with us for the inside scoop on where to find the best spots in town!."
     web: "https://cekips.com"
     gravatar: 0397aa39d5259d69961beaf1155fa085
 plugins:
